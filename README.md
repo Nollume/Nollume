@@ -2,7 +2,7 @@
   
 
 Volám sa Marek a som samouk. K programovaniu ma priviedla hlavne zvedavosť ako tvoriť weby ako to funguje. No začiatky boli náročné nevedel som ako začať čomu sa venovať skôr, akú technológiu si vybrať.
-Tak som začal hladať na googli a youtube, dozvedel som sa že na tvorbu webov je dobré začať HTML a CSS a netrvalo dlho a začal som svoj prvý kurz na [Skillmea](https://skillmea.sk) a potom to už išlo samé, moja motivácia vedieť viac sa len stupňovala. Programovaniu sa venujem už takmer rok a pol a myslím si že som nemohol spraviť lepšie, prácu som si zatial nenašiel ale našiel som si niečo v čom som sa našiel.  
+Tak som začal hladať na googli a youtube, dozvedel som sa že na tvorbu webov je dobré začať HTML a CSS a netrvalo dlho a začal som svoj prvý kurz na [Skillmea](https://skillmea.sk) a potom to už išlo samé, moja motivácia vedieť viac sa len stupňovala. Programovaniu sa venujem už takmer rok a pol a myslím si že som nemohol spraviť lepšie, prácu som si zatial nenašiel ale našiel som si niečo v čom som sa našiel a čo ma baví.  
   
 
 - 📑Spravil som si 11 kurzov z [Udemy](https://www.udemy.com) a [Skillmea](https://skillmea.sk)  
