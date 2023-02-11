@@ -23,7 +23,7 @@ Viac o mne na mojom portfóliu: https://nollume.sk
 <br/>  
 
 
-## My Skill Set  
+## Zručnosti 
 <table><tr><td valign="top" width="50%">
 
 
@@ -59,7 +59,7 @@ Viac o mne na mojom portfóliu: https://nollume.sk
 <br/>  
 
 
-## Connect with me  
+## Kontakty
 <div align="center">
 <a href="https://github.com/Nollume" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
