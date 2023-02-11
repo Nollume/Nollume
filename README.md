@@ -1,7 +1,7 @@
 # **<div align="center">👋 Frontend web developer</div>**  
   
 
-Volám sa Marek som samouk. Kprogramovaniu ma priviedla hlavne zvedavosť ako tvoriť weby ako to funguje. No začiatky boli náročné nevedel som ako začať čomu sa venovať skôr, akú technológiu si vybrať.
+Volám sa Marek a som samouk. K programovaniu ma priviedla hlavne zvedavosť ako tvoriť weby ako to funguje. No začiatky boli náročné nevedel som ako začať čomu sa venovať skôr, akú technológiu si vybrať.
 Tak som začal hladať na googli a youtube, dozvedel som sa že na tvorbu webov je dobré začať HTML a CSS a netrvalo dlho a začal som svoj prvý kurz na [Skillmea](https://skillmea.sk) a potom to už išlo samé, moja motivácia vedieť viac sa len stupňovala. Programovaniu sa venujem už takmer rok a pol a myslím si že som nemohol spraviť lepšie, prácu som si zatial nenašiel ale našiel som si niečo v čom som sa našiel.  
   
 
@@ -24,7 +24,7 @@ Viac o mne na mojom portfóliu: https://nollume.sk
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
